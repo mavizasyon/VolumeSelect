@@ -2,6 +2,8 @@
 
 **Volume Select** is a Blender 4.x addon to select loose mesh components (vertices, edges, faces) based on **bounding-box volumes**. You can define multiple threshold ranges and select all components that fit in any range.
 
+![Tractor Parts Selected](TractorParts.PNG)
+
 ## Features
 
 - Select by bounding-box volume (world-space).
